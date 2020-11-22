@@ -1,5 +1,5 @@
 # 🏡 RealEstate Website Templet 🏡
-Website Templet For RealEstate Using HTML, CSS, JAVA SCRIPT.
+Responsibal Website Templet For RealEstate.
 
 # ⚙ Made With ⚙
 
